@@ -1,2 +1,2 @@
-FROM node:latest
+FROM hub.docker.com/library/node:latest
 MAINTAINER anhao
