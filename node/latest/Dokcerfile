@@ -1,2 +1,2 @@
-FROM docker.io/node:latest
+FROM docker.io/library/node:latest
 MAINTAINER anhao
